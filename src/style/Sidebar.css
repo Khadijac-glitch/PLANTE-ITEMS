@@ -4,7 +4,7 @@
     background: green;
     color: white;
     width: 280px;
-    height: 380px;
+    height: 80vh;
 
 }
 @media screen and (max-width:600px) {
