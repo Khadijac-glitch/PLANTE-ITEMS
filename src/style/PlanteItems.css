@@ -1,0 +1,20 @@
+.plant-item{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}
+.plante{
+margin: 80px;
+}
+
+@media screen and (max-width: 600px) {
+    .plant-item{
+        width: 100px;
+        height: 100px;
+       
+    }
+    .plante{
+      position:relative;
+      bottom: 80px;
+    }
+   }

@@ -1,0 +1,16 @@
+.categories{
+    text-align: center;
+    margin: 10px;   
+}
+@media screen and (min-width: 600px) {
+    .categories{
+        padding-left: 200px;
+    }
+       
+    }
+    @media screen and (max-width: 600px) {
+        .categories{
+            padding-left: 100px;
+        }
+           
+        }

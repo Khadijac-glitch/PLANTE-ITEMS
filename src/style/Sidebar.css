@@ -1,0 +1,15 @@
+.sidebar{
+    position: relative;
+    bottom: 41px;
+    background: green;
+    color: white;
+    width: 280px;
+    height: 380px;
+
+}
+@media screen and (max-width:600px) {
+    .sidebar{
+        position: relative;
+        bottom:63px;
+    } 
+}

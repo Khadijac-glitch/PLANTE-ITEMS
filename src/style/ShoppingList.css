@@ -1,0 +1,12 @@
+.shopping{
+    display: flex;
+
+    
+}
+
+@media screen and (max-width: 600px) {
+   .shopping {
+     flex-wrap: wrap;
+      /* background: red; */
+    }
+  }
