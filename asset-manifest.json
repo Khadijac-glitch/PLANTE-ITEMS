@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PLANTE-ITEMS/static/css/main.85e2ccd5.css",
+    "main.css": "/PLANTE-ITEMS/static/css/main.e7302a0b.css",
     "main.js": "/PLANTE-ITEMS/static/js/main.bfb72b0f.js",
     "static/js/453.ad6eb26e.chunk.js": "/PLANTE-ITEMS/static/js/453.ad6eb26e.chunk.js",
     "static/media/monstera.jpg": "/PLANTE-ITEMS/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
     "index.html": "/PLANTE-ITEMS/index.html",
-    "main.85e2ccd5.css.map": "/PLANTE-ITEMS/static/css/main.85e2ccd5.css.map",
+    "main.e7302a0b.css.map": "/PLANTE-ITEMS/static/css/main.e7302a0b.css.map",
     "main.bfb72b0f.js.map": "/PLANTE-ITEMS/static/js/main.bfb72b0f.js.map",
     "453.ad6eb26e.chunk.js.map": "/PLANTE-ITEMS/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85e2ccd5.css",
+    "static/css/main.e7302a0b.css",
     "static/js/main.bfb72b0f.js"
   ]
 }
